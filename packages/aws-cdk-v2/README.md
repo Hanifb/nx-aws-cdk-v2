@@ -7,7 +7,7 @@
 
 <hr>
 
-# @ago-dev/nx-aws-cdk-v2
+# @hanifb/nx-aws-cdk-v2
 
 An Nx plugin for developing [aws-cdk](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
 
@@ -25,10 +25,10 @@ An Nx plugin for developing [aws-cdk](https://docs.aws.amazon.com/cdk/latest/gui
 
 ```shell
 # npm
-npm install --save-dev @ago-dev/nx-aws-cdk-v2
+npm install --save-dev @hanifb/nx-aws-cdk-v2
 
 # yarn
-yarn add --dev @ago-dev/nx-aws-cdk-v2
+yarn add --dev @ahanifb/nx-aws-cdk-v2
 ```
 
 ## Usage
@@ -40,7 +40,7 @@ Create AWS CDK v2 Application
 More details on AWS CDK v2 can be found on https://docs.aws.amazon.com/cdk/v2/guide/home.html
 
 ```shell
-nx generate @ago-dev/nx-aws-cdk-v2:application myApp
+nx generate @hanifb/nx-aws-cdk-v2:application myApp
 ```
 
 you can customize it further by passing these options:
@@ -75,7 +75,7 @@ nx bootstrap myApp aws://123456789012/us-east-1
 
 ## Maintainers
 
-[@adrian-goe](https://github.com/adrian-goe)
+[@hanifb](https://github.com/hanifb)
 
 ## Contributing
 
@@ -87,11 +87,11 @@ If editing the README, please conform to the [standard-readme](https://github.co
 
 ## License
 
-This project is MIT licensed 2022 Adrian Görisch
+This project is MIT licensed 2022 Hanif Bali
 
 ## Special thanks
 
 This Project is based on [@tienne](https://github.com/tienne)'s
-[nx-plugins](https://github.com/codebrewlab/nx-plugins).
+[nx-plugins](https://github.com/codebrewlab/nx-plugins) and [@adrian-go](https://github.com/adrian-goe)´s [nx-aws-cdk-v2](https://github.com/adrian-goe/nx-aws-cdk-v2)
 
 Also thanks to [@therk](https://github.com/therk) for his work on migrating to cdk v2.
