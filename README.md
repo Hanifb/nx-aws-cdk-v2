@@ -47,6 +47,5 @@ This project is MIT licensed 2022 Hanif Bali
 This Project is based on [@tienne](https://github.com/tienne)'s
 [nx-plugins](https://github.com/codebrewlab/nx-plugins) and [@adrian-go](https://github.com/adrian-goe)´s [nx-aws-cdk-v2](https://github.com/adrian-goe/nx-aws-cdk-v2)
 
-Also thanks to [@therk](https://github.com/therk) for his work on migrating to cdk v2.
+Thanks to [@therk](https://github.com/therk) for his work on migrating to cdk v2.
 
-Thanks to e for m
